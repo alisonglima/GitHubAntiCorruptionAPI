@@ -82,8 +82,6 @@ Os testes unitários foram implementados usando a estrutura de teste XUnit. Para
 
    Os resultados dos testes serão exibidos no terminal.
 
-## Contrib
-
-uição
+## Contribuição
 
 Sinta-se à vontade para contribuir com este projeto abrindo uma issue ou enviando um pull request.
