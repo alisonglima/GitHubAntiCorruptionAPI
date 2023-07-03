@@ -28,7 +28,7 @@ Antes de executar o projeto, é necessário fornecer um token de acesso do GitHu
 
 1. Abra o arquivo `appsettings.json` na raiz do projeto.
 2. Localize a seção `"GitHub"` e a propriedade `"AccessToken"`.
-3. Substitua o valor `"access-token"` pelo seu token de acesso do GitHub.
+3. Substitua o valor `"seu-token-de-acesso"` pelo seu token de acesso do GitHub.
 
 Exemplo:
 
